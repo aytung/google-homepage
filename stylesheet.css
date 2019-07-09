@@ -1,0 +1,52 @@
+.left-side {
+	float: left;
+}
+
+* {
+	color: #111111;
+}
+.right-side {
+	float: right;
+	color: blue;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li a {
+	text-decoration: none;
+	text-align: center;
+}
+
+.top-list {
+	float: top;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+form {
+	text-align: center;
+}
+
+.center-image {
+	float: center;
+}
+
+.bottom-list {
+	background-color: #BBBBBB;
+	height: 2em;
+	float: bottom;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.left-element {
+	float: left;
+}
+
+.right-element {
+	float: right;
+}
